@@ -1,0 +1,23 @@
+{
+  "name": "react-keyword-highlight",
+  "version": "0.0.1",
+  "description": "Takes a string of text and a keyword, and returns a React element with the keyword highlighted in said string of text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "highlight",
+    "react"
+  ],
+  "author": "Devin Bidwell",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.1",
+    "uuid": "^8.2.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.9.6"
+  }
+}
