@@ -1,6 +1,6 @@
 {
   "name": "react-keyword-highlight",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Takes a string of text and a keyword, and returns a React element with the keyword highlighted in said string of text",
   "main": "index.js",
   "scripts": {
